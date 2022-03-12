@@ -1,6 +1,9 @@
 # Boston-Housing-Dataset
 The dataset for this project originates from the UCI Machine Learning Repository. It contains information about different houses in Boston.
-There are 506 samples and 13 feature variables in this dataset. 
+There are 506 samples and 13 feature variables in this dataset.
+
+We can also access this data from the scikit-learn library.
+
 The objective is to predict the value of prices of the house using the given features
 
 This is a copy of UCI ML housing dataset.
